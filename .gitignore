@@ -1,0 +1,7 @@
+!.gitignore
+!.clang-format
+.vscode/
+.idea/
+cmake-*/
+dummy/
+build*/
